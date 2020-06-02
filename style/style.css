@@ -1,0 +1,35 @@
+body   {
+	background-color: #F5F5F5; /*Цвет фона области экрана*/
+    margin-left: 2%; /* Отступ от края слева */
+    margin-right: 2%; /* Отступ от края справа */
+    padding: 10px 10px 10px 10px; /* Поле вокруг текста */
+    font-family: sans-serif; 
+}
+
+h1     {
+   text-align: center;
+}
+
+p      {
+	text-align: justify;	
+}
+
+li     {
+	padding-top: 10px;
+}
+
+figure {
+    border: 1px solid #ccc; /* Рамка */
+    background-color: #f1f0f0; /* Цвет фона */
+    padding: 5px; /* Отступы от картинки */
+    width: 800px; /* Ширина картинки */
+}
+
+figcaption {
+    text-align: center; /* Подпись по центру*/
+}
+
+footer    {
+	background-color: #D7E5EF;
+    padding: 10px 10px 10px 10px; /* Поле вокруг текста */
+}
